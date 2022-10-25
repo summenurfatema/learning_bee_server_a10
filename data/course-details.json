@@ -1,152 +1,127 @@
 [
     {
         "id": "012",
-
         "course_id": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
         },
-
-        "title": "Let's start with HTML",
+        "cost": 19.99,
+        "students": "12,345",
+        "title": "HTML for begainners",
         "mentor": {
             "name": "Md Mahin",
             "class_duration": "1.30 mins",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://t4.ftcdn.net/jpg/04/24/24/45/240_F_424244577_SyaUldnb6FhuzDXJCL4b4MjGXWStFp0Y.jpg"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "lorem hmcoooooooojkg p64444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444nj"
+        "details": "In this course we are gong to learn about HTML.Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers."
     },
     {
         "id": "013",
-
         "course_id": "02",
         "rating": {
             "number": 4.6,
             "badge": "Excellent"
         },
-
-        "title": "Let's start with CSS",
+        "cost": 19.99,
+        "students": "12,345",
+        "title": "CSS - The Complete Guide ",
         "mentor": {
             "name": "Md Tushar",
             "class_duration": "1.30 mins",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://as1.ftcdn.net/v2/jpg/01/04/66/14/1000_F_104661402_sHlZlHpWsHSPWlXLzekwYwWPVxNgdJWL.jpg"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "lorem hmcoooooooojkg p64444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444nj"
+        "details": "In this course we're going learn about CSS.Lean the Foundations of HTML & CSS to Create Fully Customized, Mobile Responsive Web Pages"
     },
     {
         "id": "014",
-
         "course_id": "03",
         "rating": {
             "number": 4.6,
             "badge": "Excellent"
         },
-
-        "title": "Let's start with HTML",
+        "title": "JavaScript - The Complete Guide",
+        "cost": 29.99,
+        "students": "12,345",
         "mentor": {
             "name": "Ayesha Siddik",
             "class_duration": "1.30 mins",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "lorem hmcoooooooojkg p64444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444nj"
+        "details": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
     },
     {
         "id": "015",
-
         "course_id": "04",
         "rating": {
             "number": 4.7,
             "badge": "Excellent"
         },
-
-        "title": "Let's start with HTML",
+        "title": "Let's learn Git and Github",
+        "cost": 16.99,
+        "students": "12,345",
         "mentor": {
             "name": "Md Saifuddin",
             "class_duration": "1.30 mins",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "lorem hmcoooooooojkg p64444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444nj"
+        "details": "Complete Git and GitHub guide (23 HOURS) - Master all Git features: commits, branches, merging, rebasing and squashing"
     },
     {
         "id": "016",
-
         "course_id": "05",
         "rating": {
             "number": 4.7,
             "badge": "Excellent"
         },
-
-        "title": "Let's start with HTML",
+        "title": "Tailwind CSS From Scratch",
+        "cost": 22.99,
+        "students": "12,345",
         "mentor": {
             "name": "Md Saifuddin",
             "class_duration": "1.30 mins",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "lorem hmcoooooooojkg p64444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444nj"
+        "details": "Build great looking layouts fast and efficiently using Tailwind CSS utility classes"
     },
     {
         "id": "017",
-
         "course_id": "06",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
         },
-
-        "title": "Let's start with HTML",
+        "title": "Responsive Web Design with Bootstrap",
+        "cost": 15.99,
+        "students": "12,345",
         "mentor": {
             "name": "Miftaul Jannat",
             "class_duration": "1.30 mins",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "lorem hmcoooooooojkg p64444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444nj"
-    }, {
+        "details": "Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics & CSS3"
+    },
+    {
         "id": "018",
-
         "course_id": "07",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
         },
-
-        "title": "Let's start with HTML",
+        "title": "Become muster in React",
+        "cost": 39.99,
+        "students": "12,345",
         "mentor": {
             "name": "Bablu Sarkar",
             "class_duration": "1.30 mins",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "lorem hmcoooooooojkg p64444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444nj"
-    }, {
-        "id": "019",
-
-        "course_id": "08",
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
-
-        "title": "Let's start with HTML",
-        "mentor": {
-            "name": "Jannatul Mawa",
-            "class_duration": "1.30 mins",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "lorem hmcoooooooojkg p64444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444nj"
+        "details": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!"
     }
 ]
